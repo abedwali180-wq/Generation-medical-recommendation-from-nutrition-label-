@@ -1,0 +1,268 @@
+{"file_name": "img_0.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"4.0\", \"sodium\": \"15.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_1.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"3.0\", \"sodium\": \"460.0\", \"cholesterol\": \"45.0\"}}"}
+{"file_name": "img_4.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"0.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_8.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.0\", \"sodium\": \"870.0\", \"cholesterol\": \"10.0\"}}"}
+{"file_name": "img_10.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.1\", \"sodium\": \"528.0\"}}"}
+{"file_name": "img_11.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"650.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_12.png", "ground_truth": "{\"gt_parse\": {\"sodium\": \"170.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_14.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.3\", \"sodium\": \"0.01\"}}"}
+{"file_name": "img_17.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"3.3\", \"sodium\": \"1.0\"}}"}
+{"file_name": "img_18.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"4.0\", \"sodium\": \"920.0\", \"cholesterol\": \"50.0\"}}"}
+{"file_name": "img_20.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"65.0\", \"cholesterol\": \"5.0\"}}"}
+{"file_name": "img_21.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"125.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_25.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"115.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_26.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.0\", \"sodium\": \"240.0\", \"cholesterol\": \"5.0\"}}"}
+{"file_name": "img_29.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"2.0\", \"sodium\": \"0.9\"}}"}
+{"file_name": "img_30.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"6.0\", \"sodium\": \"60.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_39.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"180.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_42.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.8\", \"cholesterol\": \"95.0\"}}"}
+{"file_name": "img_46.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"9.6\"}}"}
+{"file_name": "img_48.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.5\", \"sodium\": \"200.0\"}}"}
+{"file_name": "img_50.png", "ground_truth": "{\"gt_parse\": {\"sodium\": \"150.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_52.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.1\", \"sodium\": \"6.0\"}}"}
+{"file_name": "img_53.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"20.0\", \"sodium\": \"2400.0\", \"cholesterol\": \"300.0\"}}"}
+{"file_name": "img_54.png", "ground_truth": "{\"gt_parse\": {\"sodium\": \"0.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_55.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"0.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_56.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"5.2\", \"sodium\": \"605.0\"}}"}
+{"file_name": "img_57.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"80.0\", \"cholesterol\": \"5.0\"}}"}
+{"file_name": "img_60.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"270.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_61.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.9\"}}"}
+{"file_name": "img_63.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.0\", \"sodium\": \"76.0\"}}"}
+{"file_name": "img_65.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.0\", \"sodium\": \"49.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_66.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.0\", \"sodium\": \"110.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_67.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"0.0\"}}"}
+{"file_name": "img_68.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.1\"}}"}
+{"file_name": "img_69.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.5\", \"sodium\": \"125.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_71.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"170.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_72.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"6.0\", \"sodium\": \"35.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_74.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"0.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_75.png", "ground_truth": "{\"gt_parse\": {\"sodium\": \"410.0\"}}"}
+{"file_name": "img_76.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.1\", \"sodium\": \"5.0\"}}"}
+{"file_name": "img_77.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.0\", \"sodium\": \"173.0\"}}"}
+{"file_name": "img_79.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"200.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_80.png", "ground_truth": "{\"gt_parse\": {\"sodium\": \"140.0\"}}"}
+{"file_name": "img_81.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"3.9\", \"sodium\": \"20.0\"}}"}
+{"file_name": "img_82.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"0.0\", \"cholesterol\": \"220.0\"}}"}
+{"file_name": "img_85.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.1\", \"sodium\": \"0.01\"}}"}
+{"file_name": "img_88.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.0\", \"sodium\": \"5.0\", \"cholesterol\": \"45.0\"}}"}
+{"file_name": "img_89.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"170.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_93.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"60.0\"}}"}
+{"file_name": "img_94.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.1\", \"sodium\": \"166.0\"}}"}
+{"file_name": "img_95.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.5\", \"sodium\": \"220.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_96.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.0\", \"sodium\": \"55.0\", \"cholesterol\": \"5.0\"}}"}
+{"file_name": "img_97.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.0\", \"sodium\": \"390.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_98.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"230.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_100.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"3.0\", \"sodium\": \"80.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_101.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"0.0\"}}"}
+{"file_name": "img_103.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"2.0\", \"sodium\": \"220.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_104.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.5\", \"sodium\": \"450.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_106.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"4.0\", \"sodium\": \"85.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_107.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"11.0\"}}"}
+{"file_name": "img_108.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"11.0\", \"sodium\": \"14.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_109.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.9\", \"sodium\": \"13.0\"}}"}
+{"file_name": "img_110.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.3\", \"sodium\": \"120.0\"}}"}
+{"file_name": "img_111.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_113.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"15.0\"}}"}
+{"file_name": "img_115.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"8.0\", \"sodium\": \"5.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_116.png", "ground_truth": "{\"gt_parse\": {\"sodium\": \"70.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_117.png", "ground_truth": "{\"gt_parse\": {\"sodium\": \"0.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_120.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"3.0\", \"sodium\": \"80.0\", \"cholesterol\": \"20.0\"}}"}
+{"file_name": "img_121.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.5\", \"sodium\": \"111.0\"}}"}
+{"file_name": "img_124.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"2.0\", \"sodium\": \"135.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_125.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"10.1\"}}"}
+{"file_name": "img_127.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.5\", \"sodium\": \"15.0\", \"cholesterol\": \"5.0\"}}"}
+{"file_name": "img_128.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"170.0\"}}"}
+{"file_name": "img_129.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"3.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_130.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"4.0\", \"sodium\": \"870.0\"}}"}
+{"file_name": "img_131.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"20.0\", \"sodium\": \"2400.0\", \"cholesterol\": \"300.0\"}}"}
+{"file_name": "img_133.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"1.8\"}}"}
+{"file_name": "img_137.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.5\", \"sodium\": \"140.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_138.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.1\", \"sodium\": \"9.0\"}}"}
+{"file_name": "img_142.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"3.0\", \"sodium\": \"1.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_145.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"10.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_146.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"150.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_147.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"7.0\", \"cholesterol\": \"30.0\"}}"}
+{"file_name": "img_150.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"770.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_151.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"3.2\", \"sodium\": \"253.0\"}}"}
+{"file_name": "img_152.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.7\"}}"}
+{"file_name": "img_156.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.0\", \"sodium\": \"46.0\", \"cholesterol\": \"8.0\"}}"}
+{"file_name": "img_157.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_158.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"2.0\", \"sodium\": \"105.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_162.png", "ground_truth": "{\"gt_parse\": {\"sodium\": \"140.0\"}}"}
+{"file_name": "img_167.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"0.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_168.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"12.7\"}}"}
+{"file_name": "img_169.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"360.0\"}}"}
+{"file_name": "img_172.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"7.0\", \"sodium\": \"35.0\", \"cholesterol\": \"5.0\"}}"}
+{"file_name": "img_173.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.0\", \"sodium\": \"250.0\", \"cholesterol\": \"10.0\"}}"}
+{"file_name": "img_176.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"400.0\", \"cholesterol\": \"20.0\"}}"}
+{"file_name": "img_177.png", "ground_truth": "{\"gt_parse\": {\"sodium\": \"15.0\"}}"}
+{"file_name": "img_178.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.5\", \"sodium\": \"220.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_179.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"3.5\", \"sodium\": \"55.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_181.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"220.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_183.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.1\", \"sodium\": \"0.12\"}}"}
+{"file_name": "img_184.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"220.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_185.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"0.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_186.png", "ground_truth": "{\"gt_parse\": {\"sodium\": \"115.0\"}}"}
+{"file_name": "img_189.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"100.0\"}}"}
+{"file_name": "img_192.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.5\", \"sodium\": \"180.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_193.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"7.0\", \"sodium\": \"0.0\", \"cholesterol\": \"30.0\"}}"}
+{"file_name": "img_194.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"2.0\", \"sodium\": \"0.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_197.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"4.0\", \"sodium\": \"35.0\"}}"}
+{"file_name": "img_202.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"3.7\", \"sodium\": \"0.25\"}}"}
+{"file_name": "img_203.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"10.0\", \"sodium\": \"65.0\", \"cholesterol\": \"10.0\"}}"}
+{"file_name": "img_207.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"2.5\", \"sodium\": \"135.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_212.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"50.0\"}}"}
+{"file_name": "img_213.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"7.0\", \"sodium\": \"30.0\", \"cholesterol\": \"5.0\"}}"}
+{"file_name": "img_214.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_215.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"9.1\"}}"}
+{"file_name": "img_216.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"3.5\", \"sodium\": \"390.0\", \"cholesterol\": \"25.0\"}}"}
+{"file_name": "img_218.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.6\"}}"}
+{"file_name": "img_219.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"3.0\", \"sodium\": \"80.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_223.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"0.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_226.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.6\", \"sodium\": \"0.13\"}}"}
+{"file_name": "img_233.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"4.5\", \"sodium\": \"65.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_234.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.0\", \"sodium\": \"200.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_235.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.5\", \"sodium\": \"0.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_239.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.3\", \"sodium\": \"0.01\"}}"}
+{"file_name": "img_241.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.0\", \"sodium\": \"470.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_242.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.3\", \"sodium\": \"0.15\"}}"}
+{"file_name": "img_243.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"7.0\", \"sodium\": \"3500.0\", \"cholesterol\": \"300.0\"}}"}
+{"file_name": "img_244.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"11.0\", \"sodium\": \"0.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_245.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"3.5\", \"sodium\": \"75.0\", \"cholesterol\": \"20.0\"}}"}
+{"file_name": "img_246.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"0.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_247.png", "ground_truth": "{\"gt_parse\": {\"sodium\": \"160.0\"}}"}
+{"file_name": "img_248.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.3\", \"sodium\": \"220.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_249.png", "ground_truth": "{\"gt_parse\": {\"sodium\": \"10.0\"}}"}
+{"file_name": "img_250.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.5\", \"sodium\": \"75.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_251.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.5\", \"sodium\": \"135.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_253.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.0\", \"sodium\": \"380.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_254.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"85.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_256.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"3.9\"}}"}
+{"file_name": "img_257.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"0.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_262.png", "ground_truth": "{\"gt_parse\": {\"sodium\": \"860.0\"}}"}
+{"file_name": "img_263.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"320.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_264.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"2.5\", \"sodium\": \"105.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_267.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"10.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_268.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"1.1\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_269.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"0.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_274.png", "ground_truth": "{\"gt_parse\": {\"sodium\": \"130.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_276.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"5.0\"}}"}
+{"file_name": "img_279.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"8.0\", \"sodium\": \"55.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_281.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"2.3\"}}"}
+{"file_name": "img_288.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"0.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_290.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"55.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_291.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"0.0\"}}"}
+{"file_name": "img_295.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.6\", \"sodium\": \"105.0\"}}"}
+{"file_name": "img_296.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"140.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_297.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.5\", \"sodium\": \"25.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_299.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"7.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_300.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"4.0\", \"sodium\": \"750.0\", \"cholesterol\": \"20.0\"}}"}
+{"file_name": "img_305.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.5\", \"sodium\": \"230.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_310.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.5\", \"sodium\": \"60.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_311.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"80.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_315.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.5\", \"sodium\": \"460.0\", \"cholesterol\": \"5.0\"}}"}
+{"file_name": "img_322.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.5\", \"sodium\": \"580.0\", \"cholesterol\": \"5.0\"}}"}
+{"file_name": "img_327.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"0.0\"}}"}
+{"file_name": "img_328.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.3\", \"sodium\": \"90.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_330.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"4.0\", \"sodium\": \"15.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_331.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.0\", \"sodium\": \"85.0\", \"cholesterol\": \"10.0\"}}"}
+{"file_name": "img_333.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"60.0\"}}"}
+{"file_name": "img_335.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"8.0\", \"sodium\": \"40.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_336.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"3.6\"}}"}
+{"file_name": "img_338.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"2.8\", \"sodium\": \"453.0\"}}"}
+{"file_name": "img_339.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.2\", \"sodium\": \"283.0\"}}"}
+{"file_name": "img_340.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.1\", \"sodium\": \"33.0\"}}"}
+{"file_name": "img_341.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"2.5\"}}"}
+{"file_name": "img_343.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"2.5\", \"sodium\": \"105.0\"}}"}
+{"file_name": "img_344.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.5\", \"sodium\": \"470.0\", \"cholesterol\": \"5.0\"}}"}
+{"file_name": "img_349.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.0\", \"sodium\": \"320.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_350.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"6.0\", \"sodium\": \"220.0\", \"cholesterol\": \"15.0\"}}"}
+{"file_name": "img_351.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"7.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_353.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.0\", \"sodium\": \"366.0\"}}"}
+{"file_name": "img_355.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"8.8\", \"sodium\": \"53.0\"}}"}
+{"file_name": "img_366.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"20.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_368.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.3\", \"sodium\": \"48.0\"}}"}
+{"file_name": "img_370.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"5.0\"}}"}
+{"file_name": "img_371.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"7.4\", \"sodium\": \"45.0\"}}"}
+{"file_name": "img_376.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.5\", \"sodium\": \"55.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_377.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"0.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_378.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.5\", \"sodium\": \"460.0\", \"cholesterol\": \"5.0\"}}"}
+{"file_name": "img_381.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"2.5\", \"sodium\": \"115.0\", \"cholesterol\": \"10.0\"}}"}
+{"file_name": "img_382.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"6.0\", \"sodium\": \"20.0\", \"cholesterol\": \"10.0\"}}"}
+{"file_name": "img_383.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.0\", \"sodium\": \"560.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_384.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"490.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_385.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"0.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_386.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"140.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_388.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"10.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_389.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.6\", \"sodium\": \"288.0\", \"cholesterol\": \"3.0\"}}"}
+{"file_name": "img_390.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.7\", \"sodium\": \"371.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_393.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"5.2\", \"sodium\": \"20.0\"}}"}
+{"file_name": "img_394.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"460.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_396.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"80.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_397.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"4.5\", \"sodium\": \"65.0\", \"cholesterol\": \"20.0\"}}"}
+{"file_name": "img_404.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"8.0\", \"sodium\": \"35.0\", \"cholesterol\": \"10.0\"}}"}
+{"file_name": "img_406.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"3.0\", \"sodium\": \"160.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_407.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"4.0\"}}"}
+{"file_name": "img_408.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"3.5\", \"sodium\": \"75.0\", \"cholesterol\": \"20.0\"}}"}
+{"file_name": "img_409.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.1\", \"sodium\": \"72.0\"}}"}
+{"file_name": "img_410.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.5\", \"sodium\": \"310.0\", \"cholesterol\": \"15.0\"}}"}
+{"file_name": "img_411.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.1\", \"sodium\": \"330.0\"}}"}
+{"file_name": "img_413.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"40.0\"}}"}
+{"file_name": "img_414.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.5\"}}"}
+{"file_name": "img_418.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"3.0\", \"sodium\": \"10.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_420.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"2.5\", \"sodium\": \"140.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_421.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.0\", \"sodium\": \"105.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_422.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.5\", \"sodium\": \"900.0\", \"cholesterol\": \"15.0\"}}"}
+{"file_name": "img_423.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"5.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_426.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"8.0\", \"sodium\": \"40.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_427.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"6.0\", \"sodium\": \"290.0\"}}"}
+{"file_name": "img_428.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.1\", \"sodium\": \"6.0\"}}"}
+{"file_name": "img_429.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"2.5\", \"sodium\": \"135.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_431.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.1\", \"sodium\": \"0.01\"}}"}
+{"file_name": "img_434.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.3\"}}"}
+{"file_name": "img_437.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.6\"}}"}
+{"file_name": "img_439.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"2.6\", \"sodium\": \"0.38\"}}"}
+{"file_name": "img_441.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"0.0\"}}"}
+{"file_name": "img_442.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"7.4\", \"sodium\": \"43.0\"}}"}
+{"file_name": "img_443.png", "ground_truth": "{\"gt_parse\": {\"sodium\": \"100.0\"}}"}
+{"file_name": "img_446.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"3.0\"}}"}
+{"file_name": "img_448.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"4.0\", \"sodium\": \"45.0\", \"cholesterol\": \"5.0\"}}"}
+{"file_name": "img_449.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.5\", \"sodium\": \"135.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_453.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.0\", \"sodium\": \"85.0\", \"cholesterol\": \"10.0\"}}"}
+{"file_name": "img_454.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.0\", \"sodium\": \"155.0\"}}"}
+{"file_name": "img_458.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.6\"}}"}
+{"file_name": "img_461.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.5\", \"sodium\": \"520.0\", \"cholesterol\": \"50.0\"}}"}
+{"file_name": "img_462.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"2.5\", \"sodium\": \"135.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_463.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.5\", \"sodium\": \"90.0\", \"cholesterol\": \"5.0\"}}"}
+{"file_name": "img_464.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"45.0\"}}"}
+{"file_name": "img_467.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"20.0\", \"sodium\": \"2400.0\", \"cholesterol\": \"300.0\"}}"}
+{"file_name": "img_469.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"3.9\"}}"}
+{"file_name": "img_473.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"480.0\"}}"}
+{"file_name": "img_474.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"10.0\"}}"}
+{"file_name": "img_476.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"550.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_478.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"150.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_480.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.0\", \"sodium\": \"75.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_486.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.6\", \"sodium\": \"201.0\"}}"}
+{"file_name": "img_490.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.3\", \"sodium\": \"710.0\"}}"}
+{"file_name": "img_491.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"97.0\"}}"}
+{"file_name": "img_493.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"0.0\"}}"}
+{"file_name": "img_494.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"390.0\"}}"}
+{"file_name": "img_497.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"130.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_498.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"8.0\", \"sodium\": \"990.0\", \"cholesterol\": \"60.0\"}}"}
+{"file_name": "img_499.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"270.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_500.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.0\", \"sodium\": \"190.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_502.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"11.0\", \"sodium\": \"45.0\", \"cholesterol\": \"5.0\"}}"}
+{"file_name": "img_503.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"38.0\"}}"}
+{"file_name": "img_504.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.5\"}}"}
+{"file_name": "img_506.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"2.0\", \"sodium\": \"75.0\", \"cholesterol\": \"10.0\"}}"}
+{"file_name": "img_507.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.7\", \"sodium\": \"180.0\"}}"}
+{"file_name": "img_508.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"25.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_509.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"4.5\", \"sodium\": \"20.0\"}}"}
+{"file_name": "img_510.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"3.5\", \"sodium\": \"5.0\", \"cholesterol\": \"45.0\"}}"}
+{"file_name": "img_511.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"10.0\"}}"}
+{"file_name": "img_513.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.8\", \"sodium\": \"323.0\"}}"}
+{"file_name": "img_517.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"3.0\", \"sodium\": \"150.0\", \"cholesterol\": \"0.0\"}}"}
+{"file_name": "img_523.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"0.0\", \"sodium\": \"5.0\"}}"}
+{"file_name": "img_525.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.3\", \"sodium\": \"122.0\"}}"}
+{"file_name": "img_527.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"5.0\", \"sodium\": \"320.0\", \"cholesterol\": \"30.0\"}}"}
+{"file_name": "img_528.png", "ground_truth": "{\"gt_parse\": {\"saturated_fat\": \"1.0\", \"sodium\": \"120.0\", \"cholesterol\": \"0.0\"}}"}
