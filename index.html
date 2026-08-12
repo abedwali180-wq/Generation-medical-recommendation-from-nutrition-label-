@@ -1,39 +1,229 @@
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
-
 <head>
     <meta charset="UTF-8">
-    <title>تم التعديل</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>منتجات العناية بالبشرة والتجميل</title>
     <style>
+        /* إعدادات الخطوط والألوان العامة */
         body {
-            font-family: sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f8f9fa;
             margin: 0;
-            background-color: #f0f2f5;
-        }
-
-        .card {
-            text-align: center;
-            padding: 30px;
-            background: white;
-            border-radius: 10px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            color: #333;
         }
 
         h1 {
-            color: #2ecc71;
+            text-align: center;
+            color: #4a5568;
+            margin-bottom: 30px;
+            font-size: 24px;
+        }
+
+        /* حاوية المنتجات الرئيسية */
+        .products-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        /* تصميم الصف (الجدول المتجاوب) */
+        .product-row {
+            display: grid;
+            grid-template-columns: 1fr 2fr 1fr;
+            background-color: #fff;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+            overflow: hidden;
+            align-items: center;
+            transition: transform 0.2s;
+        }
+
+        .product-row:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 12px rgba(0,0,0,0.1);
+        }
+
+        /* العمود الأول: اسم المادة والصورة */
+        .product-info {
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            border-left: 1px solid #edf2f7;
+        }
+
+        .product-image {
+            width: 90px;
+            height: 90px;
+            background-color: #e2e8f0;
+            border-radius: 50%;
+            margin-bottom: 10px;
+            object-fit: cover;
+        }
+
+        .product-name {
+            font-size: 18px;
+            font-weight: bold;
+            color: #2d3748;
+            margin: 0;
+        }
+
+        /* العمود الثاني: الشرح والوصف للمادة */
+        .product-description {
+            padding: 20px;
+            font-size: 15px;
+            color: #4a5568;
+            line-height: 1.6;
+        }
+
+        /* العمود الثالث: السعر وزر الشراء */
+        .product-price-box {
+            padding: 20px;
+            text-align: center;
+            background-color: #f7fafc;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            border-right: 1px solid #edf2f7;
+        }
+
+        .price-label {
+            font-size: 14px;
+            color: #718096;
+            margin-bottom: 5px;
+        }
+
+        .price-value {
+            font-size: 22px;
+            font-weight: bold;
+            color: #319795;
+            margin-bottom: 15px;
+        }
+
+        .buy-btn {
+            background-color: #319795;
+            color: white;
+            border: none;
+            padding: 8px 20px;
+            border-radius: 20px;
+            cursor: pointer;
+            font-weight: bold;
+            font-size: 14px;
+            transition: background 0.2s;
+        }
+
+        .buy-btn:hover {
+            background-color: #2c7a7b;
+        }
+
+        /* تحسينات خاصة بمتصفح الموبايل والشاشات الصغيرة */
+        @media (max-width: 768px) {
+            .product-row {
+                grid-template-columns: 1fr; /* تحويل الأعمدة إلى صفوف لسهولة التمرير */
+                text-align: center;
+            }
+
+            .product-info {
+                border-left: none;
+                border-bottom: 1px solid #edf2f7;
+            }
+
+            .product-price-box {
+                border-right: none;
+                border-top: 1px solid #edf2f7;
+                background-color: #fff;
+                padding: 15px;
+            }
+
+            body {
+                padding: 10px;
+            }
         }
     </style>
 </head>
-
 <body>
-    <div class="card">
-        <h1>مبروك! الموقع يعمل بنجاح 🎉</h1>
-        <p>لقد قمت بنشر أول صفحة ويب لك على استضافة GitHub Pages.</p>
-    </div>
-</body>
 
+    <h1>قائمة المنتجات الطبية والتجميلية لعيادات الجلدية</h1>
+
+    <div class="products-container">
+
+        <!-- المنتج الأول -->
+        <div class="product-row">
+            <!-- العمود 1: الاسم والصورة -->
+            <div class="product-info">
+                <img src="images/1_uecCMyNTQut6eMGyFuBHbQ.webp" alt="سيروم فيتامين سي" class="product-image">
+                <h2 class="product-name">سيروم فيتامين سي c</h2>
+            </div>
+            <!-- العمود 2: الشرح -->
+            <div class="product-description">
+                سيروم طبي بتركيز 15% مضاد للأكسدة، يعمل على تفتيح البقع الداكنة وتوحيد لون البشرة. يحفز إنتاج الكولاجين الطبيعي للحفاظ على نضارة الوجه وحمايته من علامات الشيخوخة والتعرض المستمر لأشعة الشمس.
+            </div>
+            <!-- العمود 3: السعر -->
+            <div class="product-price-box">
+                <span class="price-label">السعر</span>
+                <span class="price-value">$45.00</span>
+                <button class="buy-btn">طلب المنتج</button>
+            </div>
+        </div>
+
+        <!-- المنتج الثاني -->
+        <div class="product-row">
+            <div class="product-info">
+                <img src="" alt="كريم الهيالورونيك" class="product-image">
+                <h2 class="product-name">كريم الهيالورونيك</h2>
+            </div>
+            <div class="product-description">
+                كريم مرطب عميق يحتوي على حمض الهيالورونيك النقي. مناسب جداً للبشرة الجافة والحساسة بعد جلسات التقشير والليزر في العيادات. يحبس الرطوبة داخل طبقات الجلد لمدة 24 ساعة ليعطي ملمساً ناعماً.
+            </div>
+            <div class="product-price-box">
+                <span class="price-label">السعر</span>
+                <span class="price-value">$38.00</span>
+                <button class="buy-btn">طلب المنتج</button>
+            </div>
+        </div>
+
+        <!-- المنتج الثالث -->
+        <div class="product-row">
+            <div class="product-info">
+                <img src="" alt="غسول رغوي طبي" class="product-image">
+                <h2 class="product-name">غسول رغوي طبي</h2>
+            </div>
+            <div class="product-description">
+                غسول منظف مخصص للبشرة الدهنية والمعرضة لحب الشباب. يحتوي على حمض الساليسيليك لتنظيف المسام بعمق وإزالة الدهون الزائدة بدون التسبب في جفاف البشرة أو تهيجها.
+            </div>
+            <div class="product-price-box">
+                <span class="price-label">السعر</span>
+                <span class="price-value">$25.00</span>
+                <button class="buy-btn">طلب المنتج</button>
+            </div>
+        </div>
+
+        <!-- المنتج الرابع -->
+        <div class="product-row">
+            <div class="product-info">
+                <img src="" alt="واقي شمس فيزيائي" class="product-image">
+                <h2 class="product-name">واقي شمس +SPF 50</h2>
+            </div>
+            <div class="product-description">
+                حماية قصوى وعريضة الطيف ضد أشعة UVA و UVB. تركيبة فيزيائية خفيفة سريعة الامتصاص لا تترك أثراً أبيض على الوجه، خالية من الزيوت والعطور، ومثالية للاستخدام اليومي بعد العلاجات الجلدية.
+            </div>
+            <div class="product-price-box">
+                <span class="price-label">السعر</span>
+                <span class="price-value">$32.00</span>
+                <button class="buy-btn">طلب المنتج</button>
+            </div>
+        </div>
+
+        <!-- يمكنك نسخ كتل المنتجات هنا وإضافة العدد الذي تريده ليتمرر للأسفل دون حدود -->
+
+    </div>
+
+</body>
 </html>
